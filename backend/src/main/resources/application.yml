@@ -3,8 +3,8 @@ spring:
     name: Ani-Graph
   datasource:
     url: jdbc:mysql://localhost:3306/anigraph?serverTimezone=GMT%2b8
-    username: anigraph_user
-    password: 3edc$RFV
+    username: root
+    password: Thewind266
     driver-class-name: com.mysql.cj.jdbc.Driver
     platform: mysql
 mybatis:
